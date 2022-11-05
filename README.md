@@ -1,2 +1,2 @@
 # laba_2
-test project
+test project repository
